@@ -15,15 +15,10 @@ I recently graduated from [Makers Academy](https://makers.tech/) after 16 intens
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**House of Feasts** (March 2022 - May 2022)  
+_Waitress_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Working in hospitality helped me improve my ability to learn new things quickly, how to solve problems efficiently being underpressure. Also how to work as a team and communicate with customers.
 
 ## Skills
 
@@ -40,11 +35,8 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
+#### Fast and independent learner
+I am a quick, logical and systematic learner, and my technical skill set has been growing exponentially since joining Makers. During the first 8 weeks at Makers, I was able to strengthen my Ruby and JavaScript programming abilities to the point where I felt comfortable creating an AirBnb clone, a Facebook clone and a mobile app where I used React Native for the frontend and NodeJs to connect with Spotify API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jest to continuous integration with Cypress and deployment to production on Heroku.
 
 #### Another Skill
 
@@ -57,14 +49,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (August 2022 - November 2022)
+A 16-week intensive development bootcamp, focusing on:
+
+- Ruby, JavaScript - including Node and Express
+- HTML, CSS, Bootstrap
+- Object-oriented design
+- Test driven development - RSpec, Jest and Cypress
+- Agile methodologies, Pair-programming and following XP values
+- Git versioning workflow
+- Databases - PostgreSQL, MongoDB(Mongoose)
+- HTTP and REST APIs
+- Deployment - Heroku
 
 #### Your University / College (start_date to end_date)
 
@@ -72,10 +68,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+## Certifications
 
-That in some arguable way make you a better software developer or well-rounded person
+**Responsive Web Design** (March 2022)
 
-## Hobbies
+_freeCodeCamp_
 
-Any cool stuff that makes you a super part of a software development team
+[See Credential](https://www.freecodecamp.org/certification/guillerminalorenzo/responsive-web-design)
+ 
+
+## Languages 
+
+- Spanish (native)
+- English (fluent)
+
+## Interests
+
+- Travelling and trying food from differents cultures.
+- Movies and series.
+- Listening to music (going to concerts is one of my favourite activities).
+- Watching football and rugby.
+
+## Contact
+
+Please feel free to [contact](https://www.linkedin.com/in/guillermina-lorenzo-martinez-4752a0242/) me at any time if you are looking for a passionate Junior Developer who loves to learn.
