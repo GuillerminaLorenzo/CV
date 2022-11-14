@@ -36,7 +36,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 
 #### Fast and independent learner
-I am a quick, logical and systematic learner, and my technical skill set has been growing exponentially since joining Makers. During the first 8 weeks at Makers, I was able to strengthen my Ruby and JavaScript programming abilities to the point where I felt comfortable creating an AirBnb clone, a Facebook clone and a mobile app where I used React Native for the frontend and NodeJs to connect with Spotify API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jest to continuous integration with Cypress and deployment to production on Heroku.
+I am a quick, logical and systematic learner, and my technical skill set has been growing exponentially since joining Makers. Here, I was able to strengthen my Ruby and JavaScript programming abilities to the point where I felt comfortable creating an AirBnb clone, a Facebook clone and a mobile app where I used React Native for the frontend and NodeJs to connect with Spotify API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jest to continuous integration with Cypress and deployment to production on Heroku.
 
 #### Another Skill
 
