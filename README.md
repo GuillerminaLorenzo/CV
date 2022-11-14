@@ -22,30 +22,14 @@ _Waitress_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
+#### Problem solving skills
+I strongly believe that where there is a will, there is a way. I stay focused on the objective at hand, come up with an action plan, evaluate the pros and cons and use a quick feedback loop to get to the solution that best addresses the issues at hand. I believe that as software engineer it is esential to be comfortable with being uncomfortable and not having all the answers but having a very well established process which eventually leads you to the solution.
 
 #### Fast and independent learner
 I am a quick, logical and systematic learner, and my technical skill set has been growing exponentially since joining Makers. Here, I was able to strengthen my Ruby and JavaScript programming abilities to the point where I felt comfortable creating an AirBnb clone, a Facebook clone and a mobile app where I used React Native for the frontend and NodeJs to connect with Spotify API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jest to continuous integration with Cypress and deployment to production on Heroku.
 
-#### Another Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -62,12 +46,6 @@ A 16-week intensive development bootcamp, focusing on:
 - HTTP and REST APIs
 - Deployment - Heroku
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
 ## Certifications
 
 **Responsive Web Design** (March 2022)
@@ -76,7 +54,6 @@ _freeCodeCamp_
 
 [See Credential](https://www.freecodecamp.org/certification/guillerminalorenzo/responsive-web-design)
  
-
 ## Languages 
 
 - Spanish (native)
