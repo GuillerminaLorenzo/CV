@@ -1,13 +1,17 @@
-## Your Name
+# Guillermina Lorenzo Martinez
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an Argentinian that moved to England looking for new things to learn, this is how I found my passion for code. I'm an ambitious and passionate Full Stack Junior Developer, looking to direct my love for code towards a career in web development. 
+
+I recently graduated from [Makers Academy](https://makers.tech/) after 16 intensive weeks of learning how to write clean, maintainable and tested code. At Makers, we also focused on TDD, Agile working practices and working as a team. There was also a lot of emphasis on emotional intelligence and empathy.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Wakify**](https://github.com/GuillerminaLorenzo/wakify)            | Final Project - Team project: mobile app that matches your mood to a playlist. | React Native, Node.js, Spotify API, Async Storage, Cypress |
+| [**Acebook - Monsters Inc**](https://github.com/GuillerminaLorenzo/acebook-monsters-inc) | Team project: Facebook clone  | Javascript, Node.js, Express.js, Handlebars, MongoDB, Mongoose, Jest, Cypress           |
+| [**Bank Tech Test**](https://github.com/GuillerminaLorenzo/solo-projects/tree/main/bankTechTest) | Solo project: an app that simulates a bank account.  | Javascript, Jest, ESlint              |
 
 ## Work Experience
 
