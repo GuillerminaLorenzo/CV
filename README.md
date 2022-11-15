@@ -12,6 +12,7 @@ I recently graduated from [Makers Academy](https://makers.tech/) after 16 intens
 | [**Wakify**](https://github.com/GuillerminaLorenzo/wakify)            | Final Project - Team project: mobile app that matches your mood to a playlist. | React Native, Node.js, Spotify API, Async Storage, Cypress |
 | [**Acebook - Monsters Inc**](https://github.com/GuillerminaLorenzo/acebook-monsters-inc) | Team project: Facebook clone  | Javascript, Node.js, Express.js, Handlebars, MongoDB, Mongoose, Jest, Cypress           |
 | [**Bank Tech Test**](https://github.com/GuillerminaLorenzo/solo-projects/tree/main/bankTechTest) | Solo project: an app that simulates a bank account.  | Javascript, Jest, ESlint              |
+| [**Chitter challenge**](https://github.com/GuillerminaLorenzo/chitter-challenge) | Solo project: Twitter clone  | Ruby, Rspec           |
 
 ## Work Experience
 
