@@ -1,4 +1,19 @@
-# Guillermina Lorenzo Martinez
+<h1 align=center>Guillermina Lorenzo Martinez</h1>
+<h4 align=center>glorenzo2001@gmail.com</h4>
+
+<h4 align=center><a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#about-me">About Me</a> 
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#projects">Projects</a> 
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#work-experience">Work Experience</a> 
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#skills">Skills</a> 
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#education">Education</a> 
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#certifications">Certifications</a>
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#languages">Languages</a>
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#interests">Interests</a>
+| <a href="https://github.com/GuillerminaLorenzo/CV/edit/master/README.md#contact">Contact</a></h4>
+
+
+
+## About Me
 
 I'm an Argentinian that moved to England looking for new things to learn, this is how I found my passion for code. I'm an ambitious and passionate Full Stack Junior Developer, looking to direct my love for code towards a career in web development. 
 
@@ -23,13 +38,15 @@ _Waitress_
 
 ## Skills
 
-#### Problem solving skills
+#### Problem solving 
 I strongly believe that where there is a will, there is a way. I stay focused on the objective at hand, come up with an action plan, evaluate the pros and cons and use a quick feedback loop to get to the solution that best addresses the issues at hand. I believe that as software engineer it is esential to be comfortable with being uncomfortable and not having all the answers but having a very well established process which eventually leads you to the solution.
 
 #### Fast and independent learner
 I am a quick, logical and systematic learner, and my technical skill set has been growing exponentially since joining Makers. Here, I was able to strengthen my Ruby and JavaScript programming abilities to the point where I felt comfortable creating an AirBnb clone, a Facebook clone and a mobile app where I used React Native for the frontend and NodeJs to connect with Spotify API for the backend. I've been exposed to multiple tools from testing frameworks like Rspec and Jest to continuous integration with Cypress and deployment to production on Heroku.
 
 #### Communication
+
+#### Adaptability
 
 
 ## Education
@@ -46,6 +63,10 @@ A 16-week intensive development bootcamp, focusing on:
 - Databases - PostgreSQL, MongoDB(Mongoose)
 - HTTP and REST APIs
 - Deployment - Heroku
+
+What I'm most proud of my journey in Makers is that for the first team project we had 5 weeks to learn Ruby to build an AirBnb clone, for the second team project we had 2 weeks to learn new tools(e.g JavaScript) to build a Facebook clone and for the last project we didn't have time to learn new things, we only had 2 weeks to build a functional app while learning new technologies(e.g React Native) and using the ones that we already had experience with and adapt them to our needs.
+
+Another thing I really enjoyed is having the opportunity to be a mentor to someone that was starting Makers. Not only talking about code and solving bugs together but also, sharing my experience, things I wish I'd known earlier or any useful tip like the importance of taking breaks, giving/receiving feedback to improve not only technical skills but to become a better human.
 
 ## Certifications
 
