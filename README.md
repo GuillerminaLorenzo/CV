@@ -34,7 +34,7 @@ I recently graduated from [Makers Academy](https://makers.tech/) after 16 intens
 **House of Feasts** (March 2022 - May 2022)  
 _Waitress_
 
-- Working in hospitality helped me improve my ability to learn new things quickly, how to solve problems efficiently being underpressure. Also how to work as a team and communicate with customers.
+- Working in hospitality helped me improve my ability to learn new things quickly, how to solve problems efficiently being underpressure. Also how to work and communicate as a team.
 
 ## Skills
 
