@@ -60,7 +60,7 @@ A 16-week intensive development bootcamp, focusing on:
 - HTTP and REST APIs
 - Deployment - Heroku
 
-What I'm most proud of my journey in Makers is that for the first team project we had 5 weeks to learn Ruby to build an AirBnb clone. For the second team project we had 2 weeks to learn new tools(e.g JavaScript) to build a Facebook clone and for the last project we didn't have time to learn new things. We only had 2 weeks to build a functional app while learning new technologies(e.g React Native) and using the ones that we already had experience with and adapting them to our needs.
+What I'm most proud of my journey in Makers is that for the first team project I had 5 weeks to learn Ruby to build an AirBnb clone. For the second team project I had 2 weeks to learn new tools(e.g JavaScript) to build a Facebook clone and for the last project I didn't have time to learn new things. I only had 2 weeks to build a functional app while learning new technologies(e.g React Native) and using the ones that I already had experience with and adapting them to our needs.
 
 Another thing I really enjoyed is having the opportunity to be a mentor to someone that was starting Makers. Not only talking about code and solving bugs together but also, sharing my experience, things I wish I'd known earlier or any useful tip like the importance of taking breaks and giving/receiving feedback to improve not only technical skills but to become a better human.
 
